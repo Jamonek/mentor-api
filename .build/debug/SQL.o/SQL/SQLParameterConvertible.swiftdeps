@@ -1,0 +1,356 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLParameterConvertibleType"
+- "SQLParameterConvertible"
+provides-nominal:
+- "O3SQL27SQLParameterConvertibleType"
+- "P3SQL23SQLParameterConvertible"
+- "Si"
+- "Sd"
+- "Sf"
+- "SS"
+- "CSo6NSData"
+- "V4Core4Data"
+provides-member:
+- ["O3SQL27SQLParameterConvertibleType", ""]
+- ["P3SQL23SQLParameterConvertible", ""]
+- ["Si", ""]
+- ["Sd", ""]
+- ["Sf", ""]
+- ["SS", ""]
+- ["CSo6NSData", ""]
+- ["V4Core4Data", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Double"
+- "SQLParameterConvertible"
+- "UInt8"
+- "SQLParameterConvertibleType"
+- "Int"
+- "Float"
+- "NSData"
+- "String"
+- !private "sizeof"
+- !private "/"
+- "Data"
+depends-member:
+- ["Ps16AbsoluteValuable", "SQLParameterData"]
+- !private ["Ps16AbsoluteValuable", "String"]
+- ["Ps9AnyObject", "SQLParameterData"]
+- !private ["Ps9AnyObject", "UInt8"]
+- !private ["Ps9AnyObject", "getBytes"]
+- !private ["Ps9AnyObject", "length"]
+- !private ["Ps9AnyObject", "sizeof"]
+- !private ["Sa", "init"]
+- ["Ps23ArrayLiteralConvertible", "SQLParameterData"]
+- !private ["Ps23ArrayLiteralConvertible", "init"]
+- !private ["Ps23ArrayLiteralConvertible", "uBytes"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- ["Ps22BidirectionalIndexType", "SQLParameterData"]
+- !private ["Ps22BidirectionalIndexType", "String"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- ["Ps21BitwiseOperationsType", "SQLParameterData"]
+- !private ["Ps21BitwiseOperationsType", "String"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- ["Ps11CVarArgType", "SQLParameterData"]
+- !private ["Ps11CVarArgType", "String"]
+- !private ["Ps11CVarArgType", "UInt8"]
+- !private ["Ps11CVarArgType", "getBytes"]
+- !private ["Ps11CVarArgType", "length"]
+- !private ["Ps11CVarArgType", "sizeof"]
+- !private ["Ps14CollectionType", "init"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- ["Ps10Comparable", "SQLParameterData"]
+- !private ["Ps10Comparable", "String"]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "SQLParameterData"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "UInt8"]
+- !private ["Ps28CustomDebugStringConvertible", "getBytes"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "length"]
+- !private ["Ps28CustomDebugStringConvertible", "sizeof"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- ["Ps23CustomStringConvertible", "SQLParameterData"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "UInt8"]
+- !private ["Ps23CustomStringConvertible", "getBytes"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "length"]
+- !private ["Ps23CustomStringConvertible", "sizeof"]
+- ["V4Core4Data", "SQLParameterConvertibleType"]
+- ["V4Core4Data", "SQLParameterData"]
+- ["V4Core4Data", "deinit"]
+- !private ["V4Core4Data", "uBytes"]
+- ["Sd", "SQLParameterConvertibleType"]
+- ["Sd", "SQLParameterData"]
+- !private ["Sd", "String"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- ["Ps9Equatable", "SQLParameterData"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "UInt8"]
+- !private ["Ps9Equatable", "getBytes"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "length"]
+- !private ["Ps9Equatable", "sizeof"]
+- ["Ps41ExtendedGraphemeClusterLiteralConvertible", "SQLParameterData"]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "uBytes"]
+- ["Sf", "SQLParameterConvertibleType"]
+- ["Sf", "SQLParameterData"]
+- !private ["Sf", "String"]
+- ["Sf", "deinit"]
+- ["Ps23FloatLiteralConvertible", "SQLParameterData"]
+- !private ["Ps23FloatLiteralConvertible", "String"]
+- ["Ps17FloatingPointType", "SQLParameterData"]
+- !private ["Ps17FloatingPointType", "String"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- ["Ps16ForwardIndexType", "SQLParameterData"]
+- !private ["Ps16ForwardIndexType", "String"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- ["Ps8Hashable", "SQLParameterData"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "UInt8"]
+- !private ["Ps8Hashable", "getBytes"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "length"]
+- !private ["Ps8Hashable", "sizeof"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Si", "IntegerLiteralType"]
+- ["Si", "SQLParameterConvertibleType"]
+- ["Si", "SQLParameterData"]
+- !private ["Si", "String"]
+- ["Si", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- ["Ps21IntegerArithmeticType", "SQLParameterData"]
+- !private ["Ps21IntegerArithmeticType", "String"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- ["Ps25IntegerLiteralConvertible", "SQLParameterData"]
+- !private ["Ps25IntegerLiteralConvertible", "String"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- ["Ps11IntegerType", "SQLParameterData"]
+- !private ["Ps11IntegerType", "String"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- ["Ps14MirrorPathType", "SQLParameterData"]
+- !private ["Ps14MirrorPathType", "String"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["Ps21MutableCollectionType", "init"]
+- !private ["Ps16MutableIndexable", "init"]
+- !private ["Ps16MutableSliceable", "init"]
+- ["PSo8NSCoding", "SQLParameterData"]
+- !private ["PSo8NSCoding", "UInt8"]
+- !private ["PSo8NSCoding", "getBytes"]
+- !private ["PSo8NSCoding", "length"]
+- !private ["PSo8NSCoding", "sizeof"]
+- ["PSo9NSCopying", "SQLParameterData"]
+- !private ["PSo9NSCopying", "UInt8"]
+- !private ["PSo9NSCopying", "getBytes"]
+- !private ["PSo9NSCopying", "length"]
+- !private ["PSo9NSCopying", "sizeof"]
+- ["CSo6NSData", "SQLParameterConvertibleType"]
+- ["CSo6NSData", "SQLParameterData"]
+- !private ["CSo6NSData", "UInt8"]
+- ["CSo6NSData", "deinit"]
+- !private ["CSo6NSData", "getBytes"]
+- !private ["CSo6NSData", "length"]
+- !private ["CSo6NSData", "sizeof"]
+- ["PSo16NSMutableCopying", "SQLParameterData"]
+- !private ["PSo16NSMutableCopying", "UInt8"]
+- !private ["PSo16NSMutableCopying", "getBytes"]
+- !private ["PSo16NSMutableCopying", "length"]
+- !private ["PSo16NSMutableCopying", "sizeof"]
+- ["CSo8NSObject", "SQLParameterConvertibleType"]
+- ["CSo8NSObject", "SQLParameterData"]
+- !private ["CSo8NSObject", "UInt8"]
+- !private ["CSo8NSObject", "getBytes"]
+- !private ["CSo8NSObject", "length"]
+- !private ["CSo8NSObject", "sizeof"]
+- ["PSo16NSObjectProtocol", "SQLParameterData"]
+- !private ["PSo16NSObjectProtocol", "UInt8"]
+- !private ["PSo16NSObjectProtocol", "getBytes"]
+- !private ["PSo16NSObjectProtocol", "length"]
+- !private ["PSo16NSObjectProtocol", "sizeof"]
+- ["PSo14NSSecureCoding", "SQLParameterData"]
+- !private ["PSo14NSSecureCoding", "UInt8"]
+- !private ["PSo14NSSecureCoding", "getBytes"]
+- !private ["PSo14NSSecureCoding", "length"]
+- !private ["PSo14NSSecureCoding", "sizeof"]
+- ["Ps16OutputStreamType", "SQLParameterData"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- ["Ps21RandomAccessIndexType", "SQLParameterData"]
+- !private ["Ps21RandomAccessIndexType", "String"]
+- !private ["Ps30RangeReplaceableCollectionType", "init"]
+- !private ["P3SQL23SQLParameterConvertible", "IntegerLiteralType"]
+- ["P3SQL23SQLParameterConvertible", "SQLParameterConvertibleType"]
+- ["P3SQL23SQLParameterConvertible", "SQLParameterData"]
+- !private ["P3SQL23SQLParameterConvertible", "String"]
+- !private ["P3SQL23SQLParameterConvertible", "UInt8"]
+- !private ["P3SQL23SQLParameterConvertible", "getBytes"]
+- !private ["P3SQL23SQLParameterConvertible", "init"]
+- !private ["P3SQL23SQLParameterConvertible", "length"]
+- !private ["P3SQL23SQLParameterConvertible", "sizeof"]
+- !private ["P3SQL23SQLParameterConvertible", "uBytes"]
+- ["P3SQL23SQLParameterConvertible", ""]
+- ["O3SQL27SQLParameterConvertibleType", "Binary"]
+- ["O3SQL27SQLParameterConvertibleType", "String"]
+- ["O3SQL27SQLParameterConvertibleType", "Text"]
+- ["O3SQL27SQLParameterConvertibleType", "UInt8"]
+- !private ["Ps12SequenceType", "init"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- ["Ps17SignedIntegerType", "SQLParameterData"]
+- !private ["Ps17SignedIntegerType", "String"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- ["Ps16SignedNumberType", "SQLParameterData"]
+- !private ["Ps16SignedNumberType", "String"]
+- ["Ps10Streamable", "SQLParameterData"]
+- !private ["Ps10Streamable", "init"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- ["Ps10Strideable", "SQLParameterData"]
+- !private ["Ps10Strideable", "String"]
+- ["SS", "SQLParameterConvertibleType"]
+- ["SS", "SQLParameterData"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- ["Ps30StringInterpolationConvertible", "SQLParameterData"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- ["Ps24StringLiteralConvertible", "SQLParameterData"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "uBytes"]
+- ["Ps31UnicodeScalarLiteralConvertible", "SQLParameterData"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "uBytes"]
+- !private ["Ps10_ArrayType", "init"]
+- ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "SQLParameterData"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- ["Ps31_BuiltinFloatLiteralConvertible", "SQLParameterData"]
+- !private ["Ps31_BuiltinFloatLiteralConvertible", "String"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- ["Ps33_BuiltinIntegerLiteralConvertible", "SQLParameterData"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "String"]
+- ["Ps32_BuiltinStringLiteralConvertible", "SQLParameterData"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- ["Ps37_BuiltinUTF16StringLiteralConvertible", "SQLParameterData"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "SQLParameterData"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- ["Ps19_CVarArgAlignedType", "SQLParameterData"]
+- !private ["Ps19_CVarArgAlignedType", "String"]
+- ["Ps22_CVarArgPassedAsDouble", "SQLParameterData"]
+- !private ["Ps22_CVarArgPassedAsDouble", "String"]
+- !private ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- ["Ps14_Incrementable", "SQLParameterData"]
+- !private ["Ps14_Incrementable", "String"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- ["Ps22_IntegerArithmeticType", "SQLParameterData"]
+- !private ["Ps22_IntegerArithmeticType", "String"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- ["Ps12_IntegerType", "SQLParameterData"]
+- !private ["Ps12_IntegerType", "String"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- ["Ps21_ObjectiveCBridgeable", "SQLParameterData"]
+- !private ["Ps21_ObjectiveCBridgeable", "String"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- ["Ps22_RandomAccessAmbiguity", "SQLParameterData"]
+- !private ["Ps22_RandomAccessAmbiguity", "String"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- ["Ps12_Reflectable", "SQLParameterData"]
+- !private ["Ps12_Reflectable", "String"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+- ["Ps18_SignedIntegerType", "SQLParameterData"]
+- !private ["Ps18_SignedIntegerType", "String"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- !private "Sa"
+- "Ps23ArrayLiteralConvertible"
+- "Ps22BidirectionalIndexType"
+- "Ps21BitwiseOperationsType"
+- "Ps11CVarArgType"
+- !private "Ps14CollectionType"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "V4Core4Data"
+- "Sd"
+- "Ps9Equatable"
+- "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- "Sf"
+- "Ps23FloatLiteralConvertible"
+- "Ps17FloatingPointType"
+- "Ps16ForwardIndexType"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- "Si"
+- "Ps21IntegerArithmeticType"
+- "Ps25IntegerLiteralConvertible"
+- "Ps11IntegerType"
+- "Ps14MirrorPathType"
+- !private "Ps21MutableCollectionType"
+- !private "Ps16MutableIndexable"
+- !private "Ps16MutableSliceable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo6NSData"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "Ps16OutputStreamType"
+- "Ps21RandomAccessIndexType"
+- !private "Ps30RangeReplaceableCollectionType"
+- "P3SQL23SQLParameterConvertible"
+- "O3SQL27SQLParameterConvertibleType"
+- !private "Ps12SequenceType"
+- "Ps17SignedIntegerType"
+- "Ps16SignedNumberType"
+- "Ps10Streamable"
+- "Ps10Strideable"
+- "SS"
+- "Ps30StringInterpolationConvertible"
+- "Ps24StringLiteralConvertible"
+- "Ps31UnicodeScalarLiteralConvertible"
+- !private "Ps10_ArrayType"
+- "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- "Ps31_BuiltinFloatLiteralConvertible"
+- "Ps33_BuiltinIntegerLiteralConvertible"
+- "Ps32_BuiltinStringLiteralConvertible"
+- "Ps37_BuiltinUTF16StringLiteralConvertible"
+- "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- "Ps19_CVarArgAlignedType"
+- "Ps22_CVarArgPassedAsDouble"
+- !private "Ps24_DestructorSafeContainer"
+- "Ps14_Incrementable"
+- "Ps22_IntegerArithmeticType"
+- "Ps12_IntegerType"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps22_RandomAccessAmbiguity"
+- "Ps12_Reflectable"
+- "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/bit_slack_bot/Packages/CDispatch-1.0.0/module.modulemap"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+interface-hash: "2761bc9ae160649148710cbb052aba16"

@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<HTTPParser>]
+  HTTPParser: [<HTTPParser>]
+
+commands:
+  <HTTPParser-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/Method+HTTPParser.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ParseError.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/RequestParser.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ResponseParser.swift"]
+    outputs: ["<HTTPParser-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.swiftmodule","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/Method+HTTPParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ParseError.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/RequestParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ResponseParser.swift.o"]
+    module-name: "HTTPParser"
+    module-output-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.swiftmodule"
+    is-library: true
+    sources: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/Method+HTTPParser.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ParseError.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/RequestParser.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ResponseParser.swift"]
+    objects: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/Method+HTTPParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ParseError.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/RequestParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ResponseParser.swift.o"]
+    import-paths: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug"]
+    temps-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-enable-testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CHTTPParser-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CHTTPParser-0.1.0","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0","-I","/usr/local/include","-D","SWIFT_PACKAGE"]
+  <HTTPParser>:
+    tool: shell
+    inputs: ["<HTTPParser-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/Method+HTTPParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ParseError.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/RequestParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ResponseParser.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTP.a"]
+    outputs: ["<HTTPParser>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.a"]
+    args: ["/bin/sh","-c","rm -f '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.a'; ar cr '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.a' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/Method+HTTPParser.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ParseError.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/RequestParser.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ResponseParser.swift.o'"]
+    description: "Linking Library:  .build/debug/HTTPParser.a"

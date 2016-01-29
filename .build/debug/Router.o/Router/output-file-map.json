@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Router/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Router-0.1.0/Sources/Router.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Router/Router.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Sources/Router.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Router/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Router/Router.swiftdeps"
+  }
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "cdb9afe351edcb3becb2a988c5a87cad"
+build_time: [507343493, 626461000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/FailureResponderType.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/JSONParserMiddleware.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/LoggerMiddleware.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/Middleware.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddleware.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddlewareResult.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddlewareType.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestResponseMiddlewareType.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/Responder.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/ResponseMiddlewareType.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RouterMiddleware.swift": [507343477, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/URLEncodedFormParserMiddleware.swift": [507343477, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "6e1973ae059e077592e885f30460b1f6"
+build_time: [507343484, 172124000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/Method+HTTPParser.swift": [507343461, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ParseError.swift": [507343461, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/RequestParser.swift": [507343461, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ResponseParser.swift": [507343461, 0]

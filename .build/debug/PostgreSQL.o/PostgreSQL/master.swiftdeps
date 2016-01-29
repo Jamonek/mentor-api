@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "4126343593e535855fa37956dd135ed4"
+build_time: [507343491, 983120000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Connection.swift": [507343473, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Field.swift": [507343473, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Result.swift": [507343473, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Row.swift": [507343473, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Value.swift": [507343473, 0]

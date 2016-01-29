@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<PostgreSQL>]
+  PostgreSQL: [<PostgreSQL>]
+
+commands:
+  <PostgreSQL-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Connection.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Field.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Result.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Row.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Value.swift"]
+    outputs: ["<PostgreSQL-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.swiftmodule","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Value.swift.o"]
+    module-name: "PostgreSQL"
+    module-output-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.swiftmodule"
+    is-library: true
+    sources: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Connection.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Field.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Result.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Row.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Value.swift"]
+    objects: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Value.swift.o"]
+    import-paths: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug"]
+    temps-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-enable-testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CLibpq-OSX-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CLibpq-OSX-0.1.0","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0","-I","/usr/local/include","-D","SWIFT_PACKAGE"]
+  <PostgreSQL>:
+    tool: shell
+    inputs: ["<PostgreSQL-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Value.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.a"]
+    outputs: ["<PostgreSQL>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.a"]
+    args: ["/bin/sh","-c","rm -f '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.a'; ar cr '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.a' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Connection.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Field.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Result.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Row.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Value.swift.o'"]
+    description: "Linking Library:  .build/debug/PostgreSQL.a"

@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "cd737748c56e3539a306ff0b34b5dfff"
+build_time: [507343480, 347772000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Base64/Base64.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/CollectionType/CollectionType.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Data/Data.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Events/EventEmitter.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Events/EventListener.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/File/File.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Int/Int.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSON.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONParseError.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONParser.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONSerializer.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/MediaType/MediaType.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/POSIXRegex/Regex.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/SSL/SSL.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Stream/Stream.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/String/String.swift": [507343467, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/URI/URI.swift": [507343467, 0]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "9476f9762ddcf0748d8748d5139660b6"
+build_time: [507343693, 906669000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/APIv1.swift": [507342953, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/main.swift": [507343154, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/Router.swift": [507342958, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/User.swift": [507343684, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/UserResources.swift": [507343637, 0]

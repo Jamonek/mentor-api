@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<SQL>]
+  SQL: [<SQL>]
+
+commands:
+  <SQL-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Connection.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Field.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Result.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Row.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/SQLParameterConvertible.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Value.swift"]
+    outputs: ["<SQL-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.swiftmodule","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/SQLParameterConvertible.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Value.swift.o"]
+    module-name: "SQL"
+    module-output-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.swiftmodule"
+    is-library: true
+    sources: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Connection.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Field.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Result.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Row.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/SQLParameterConvertible.swift","/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Value.swift"]
+    objects: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/SQLParameterConvertible.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Value.swift.o"]
+    import-paths: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug"]
+    temps-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-enable-testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0","-I","/usr/local/include","-D","SWIFT_PACKAGE"]
+  <SQL>:
+    tool: shell
+    inputs: ["<SQL-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Connection.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Field.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Result.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Row.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/SQLParameterConvertible.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Value.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.a"]
+    outputs: ["<SQL>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.a"]
+    args: ["/bin/sh","-c","rm -f '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.a'; ar cr '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.a' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Connection.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Field.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Result.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Row.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/SQLParameterConvertible.swift.o' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Value.swift.o'"]
+    description: "Linking Library:  .build/debug/SQL.a"

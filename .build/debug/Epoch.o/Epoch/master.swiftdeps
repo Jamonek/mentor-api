@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "e5402bac63d6fc306f58b9cde1db6ca1"
+build_time: [507343486, 785724000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/Parser.swift": [507343456, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/RequestParserType.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/ResponseSerializerType.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/Serializer.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/Server.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/ServerType.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/TCPServer.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/TCPServerType.swift": [507343457, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Epoch-0.1.0/Sources/TCPStream.swift": [507343457, 0]

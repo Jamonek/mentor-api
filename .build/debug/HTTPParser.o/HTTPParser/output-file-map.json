@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/Method+HTTPParser.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/Method+HTTPParser.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/Method+HTTPParser.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/Method+HTTPParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/Method+HTTPParser.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ParseError.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ParseError.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ParseError.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ParseError~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ParseError.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/RequestParser.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/RequestParser.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/RequestParser.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/RequestParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/RequestParser.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPParser-0.1.0/Sources/ResponseParser.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ResponseParser.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/Sources/ResponseParser.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ResponseParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.o/HTTPParser/ResponseParser.swiftdeps"
+  }
+}

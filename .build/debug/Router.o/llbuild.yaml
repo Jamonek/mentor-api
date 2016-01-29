@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<Router>]
+  Router: [<Router>]
+
+commands:
+  <Router-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/Router-0.1.0/Sources/Router.swift"]
+    outputs: ["<Router-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.swiftmodule","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Sources/Router.swift.o"]
+    module-name: "Router"
+    module-output-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.swiftmodule"
+    is-library: true
+    sources: ["/Users/JamoneK/Documents/Projects/mentor-api/Packages/Router-0.1.0/Sources/Router.swift"]
+    objects: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Sources/Router.swift.o"]
+    import-paths: ["/Users/JamoneK/Documents/Projects/mentor-api/.build/debug"]
+    temps-path: "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Router"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-enable-testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-Xcc","-F-module-map=/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0/module.modulemap","-I","/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0","-I","/usr/local/include","-D","SWIFT_PACKAGE"]
+  <Router>:
+    tool: shell
+    inputs: ["<Router-swiftc>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Sources/Router.swift.o","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTP.a"]
+    outputs: ["<Router>","/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.a"]
+    args: ["/bin/sh","-c","rm -f '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.a'; ar cr '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.a' '/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.o/Sources/Router.swift.o'"]
+    description: "Linking Library:  .build/debug/Router.a"

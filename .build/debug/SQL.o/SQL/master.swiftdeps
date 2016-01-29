@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "b44ac04823263b9047b32e097196aa87"
+build_time: [507343487, 945344000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Connection.swift": [507343474, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Field.swift": [507343474, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Result.swift": [507343474, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Row.swift": [507343474, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/SQLParameterConvertible.swift": [507343474, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Value.swift": [507343474, 0]

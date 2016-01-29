@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/FailureResponderType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/FailureResponderType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/FailureResponderType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/FailureResponderType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/FailureResponderType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/JSONParserMiddleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/JSONParserMiddleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/JSONParserMiddleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/JSONParserMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/JSONParserMiddleware.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/LoggerMiddleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/LoggerMiddleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/LoggerMiddleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/LoggerMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/LoggerMiddleware.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/Middleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Middleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/Middleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Middleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Middleware.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/RequestMiddleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddleware.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddlewareResult.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareResult.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/RequestMiddlewareResult.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareResult.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestMiddlewareType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/RequestMiddlewareType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestMiddlewareType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RequestResponseMiddlewareType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestResponseMiddlewareType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/RequestResponseMiddlewareType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestResponseMiddlewareType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RequestResponseMiddlewareType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/Responder.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Responder.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/Responder.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Responder~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/Responder.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/ResponseMiddlewareType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/ResponseMiddlewareType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/ResponseMiddlewareType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/ResponseMiddlewareType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/ResponseMiddlewareType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/RouterMiddleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RouterMiddleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/RouterMiddleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RouterMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/RouterMiddleware.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTPMiddleware-0.1.0/Sources/URLEncodedFormParserMiddleware.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/URLEncodedFormParserMiddleware.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Sources/URLEncodedFormParserMiddleware.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/URLEncodedFormParserMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.o/Middleware/URLEncodedFormParserMiddleware.swiftdeps"
+  }
+}

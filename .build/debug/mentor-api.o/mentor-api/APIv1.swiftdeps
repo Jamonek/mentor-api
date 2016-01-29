@@ -1,0 +1,109 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "APIv1"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- ">>>"
+- "userResources"
+- "Router"
+- "APIv1"
+- "StringLiteralType"
+- "Response"
+- "Dictionary"
+- "parseJSON"
+depends-member:
+- ["Ps9AnyObject", "get"]
+- ["Ps9AnyObject", "post"]
+- ["Ps9AnyObject", "signin"]
+- ["Ps9AnyObject", "signup"]
+- ["Ps23ArrayLiteralConvertible", "Key"]
+- ["Ps23ArrayLiteralConvertible", "Value"]
+- ["Ps25BooleanLiteralConvertible", "Key"]
+- ["Ps25BooleanLiteralConvertible", "Value"]
+- ["Ps28CustomDebugStringConvertible", "Key"]
+- ["Ps28CustomDebugStringConvertible", "Value"]
+- ["Ps23CustomStringConvertible", "Key"]
+- ["Ps23CustomStringConvertible", "Value"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps28DictionaryLiteralConvertible", "Key"]
+- ["Ps28DictionaryLiteralConvertible", "Value"]
+- ["Ps9Equatable", "Key"]
+- ["Ps9Equatable", "OK"]
+- ["Ps9Equatable", "Value"]
+- ["Ps9Equatable", "init"]
+- ["Ps41ExtendedGraphemeClusterLiteralConvertible", "Key"]
+- ["Ps41ExtendedGraphemeClusterLiteralConvertible", "Value"]
+- ["Ps23FloatLiteralConvertible", "Key"]
+- ["Ps23FloatLiteralConvertible", "Value"]
+- ["Ps8Hashable", "OK"]
+- ["Ps8Hashable", "init"]
+- ["Ps25IntegerLiteralConvertible", "Key"]
+- ["Ps25IntegerLiteralConvertible", "Value"]
+- ["O4Core4JSON", "Key"]
+- ["O4Core4JSON", "Value"]
+- ["O4Core4JSON", "deinit"]
+- ["V10Middleware20JSONParserMiddleware", "deinit"]
+- ["Ps21NilLiteralConvertible", "Key"]
+- ["Ps21NilLiteralConvertible", "Value"]
+- ["P4HTTP13ResponderType", "init"]
+- ["V4HTTP8Response", "init"]
+- ["V6Router6Router", "init"]
+- ["CV6Router6Router13RouterBuilder", "get"]
+- ["CV6Router6Router13RouterBuilder", "post"]
+- ["O4HTTP6Status", "OK"]
+- ["Ps24StringLiteralConvertible", "Key"]
+- ["Ps24StringLiteralConvertible", "Value"]
+- ["Ps31UnicodeScalarLiteralConvertible", "Key"]
+- ["Ps31UnicodeScalarLiteralConvertible", "Value"]
+- ["C9mentorapi13UserResources", "signin"]
+- ["C9mentorapi13UserResources", "signup"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps23ArrayLiteralConvertible"
+- "Ps25BooleanLiteralConvertible"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps28DictionaryLiteralConvertible"
+- "Ps9Equatable"
+- "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- "Ps23FloatLiteralConvertible"
+- "Ps8Hashable"
+- "Ps25IntegerLiteralConvertible"
+- "O4Core4JSON"
+- "V10Middleware20JSONParserMiddleware"
+- "Ps21NilLiteralConvertible"
+- "P4HTTP13ResponderType"
+- "V4HTTP8Response"
+- "V6Router6Router"
+- "CV6Router6Router13RouterBuilder"
+- "O4HTTP6Status"
+- "Ps24StringLiteralConvertible"
+- "Ps31UnicodeScalarLiteralConvertible"
+- "C9mentorapi13UserResources"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTP.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.swiftmodule"
+- "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2016-01-11-a.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Router.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Middleware.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Epoch.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/HTTPParser.swiftmodule"
+- "/Users/JamoneK/Documents/Projects/mentor-api/Packages/CURIParser-0.1.0/module.modulemap"
+- "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Venice.swiftmodule"
+interface-hash: "efd54de136fe69394fc3b6c4de81b0d8"

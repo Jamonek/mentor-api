@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "d433d98d6951b7167d42347452f5ad77"
+build_time: [507343493, 51792000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Router-0.1.0/Sources/Router.swift": [507343478, 0]

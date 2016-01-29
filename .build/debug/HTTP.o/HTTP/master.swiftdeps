@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 42591f7cba)"
+options: "4d6eb95d80cc6ffdb3edc43245134264"
+build_time: [507343483, 231564000]
+inputs:
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Context.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/FileResponder.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Method.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Request+JSON.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Request.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Responders.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Response+File.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Response+JSON.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Response.swift": [507343464, 0]
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/HTTP-0.1.2/Sources/Status.swift": [507343464, 0]

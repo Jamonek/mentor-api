@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/APIv1.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/APIv1.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/Sources/APIv1.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/APIv1~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/APIv1.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/main.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/main.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/Sources/main.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/main.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/Router.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/Router.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/Sources/Router.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/Router.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/User.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/User.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/Sources/User.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/User.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Sources/UserResources.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/UserResources.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/Sources/UserResources.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/UserResources~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/mentor-api.o/mentor-api/UserResources.swiftdeps"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Connection.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Connection.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Connection.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Connection.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Field.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Field.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Field.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Field.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Result.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Result.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Result.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Result.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Row.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Row.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Row.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Row~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Row.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/PostgreSQL-0.1.0/Sources/Value.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Value.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/Sources/Value.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/PostgreSQL.o/PostgreSQL/Value.swiftdeps"
+  }
+}

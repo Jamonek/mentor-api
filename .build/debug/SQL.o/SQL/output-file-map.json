@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Connection.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Connection.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Connection.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Connection.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Field.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Field.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Field.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Field.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Result.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Result.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Result.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Result.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Row.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Row.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Row.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Row~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Row.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/SQLParameterConvertible.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/SQLParameterConvertible.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/SQLParameterConvertible.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/SQLParameterConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/SQLParameterConvertible.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/SQL-0.1.1/Sources/SQL/Value.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Value.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/Sources/SQL/Value.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/SQL.o/SQL/Value.swiftdeps"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/master.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Base64/Base64.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Base64.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Base64/Base64.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Base64~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Base64.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/CollectionType/CollectionType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/CollectionType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/CollectionType/CollectionType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/CollectionType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/CollectionType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Data/Data.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Data.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Data/Data.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Data~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Data.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Events/EventEmitter.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventEmitter.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Events/EventEmitter.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventEmitter~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventEmitter.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Events/EventListener.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventListener.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Events/EventListener.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventListener~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/EventListener.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/File/File.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/File.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/File/File.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/File.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Int/Int.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Int.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Int/Int.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Int~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Int.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSON.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSON.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/JSON/JSON.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSON.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONParseError.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParseError.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/JSON/JSONParseError.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParseError~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParseError.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONParser.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParser.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/JSON/JSONParser.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONParser.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/JSON/JSONSerializer.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONSerializer.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/JSON/JSONSerializer.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/JSONSerializer.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/MediaType/MediaType.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/MediaType.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/MediaType/MediaType.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/MediaType~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/MediaType.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/POSIXRegex/Regex.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Regex.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/POSIXRegex/Regex.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Regex~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Regex.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/SSL/SSL.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/SSL.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/SSL/SSL.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/SSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/SSL.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/Stream/Stream.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Stream.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/Stream/Stream.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Stream~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/Stream.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/String/String.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/String.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/String/String.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/String.swiftdeps"
+  },
+  "/Users/JamoneK/Documents/Projects/mentor-api/Packages/Core-0.1.1/Sources/Core/URI/URI.swift": {
+    "dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/URI.d",
+    "object": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Sources/Core/URI/URI.swift.o",
+    "swiftmodule": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/URI~partial.swiftmodule",
+    "swift-dependencies": "/Users/JamoneK/Documents/Projects/mentor-api/.build/debug/Core.o/Core/URI.swiftdeps"
+  }
+}
